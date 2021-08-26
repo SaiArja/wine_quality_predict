@@ -1,0 +1,88 @@
+INTRODUCTION "ts
+
+ 
+
+ 
+
+a
+About wine: aS
+Wine is a beverage made from fermented grape and other fruit juices with lower amount
+of alcohol content. ~
+Quality of wine is graded based on the taste of wine and vintage. This process is time
+taking, costly and not efficient.
+A wine itself includes different parameters like fixed acidity, volatile acidity, citric acid, of 7
+residual sugar, chlorides, free sulphur dioxide, total sulphur dioxide, density, pH, a
+sulphates, alcohol and quali an
+sulphates, alcohol and quality. 5
+Problem statement: : =
+In industries, understanding the demands of wine safety testing can be a complex task
+for the laboratory with numerous analytes and residues to monitor. B a
+But, our application’s prediction, provide ideal solutions for the analysis of wine, which
+will make this whole process efficient and cheaper with less human interaction. a O
+a
+A
+fa
+aa
+ia
+Zz
+OBJECTIVE 8
+i
+Our main objective is to predict the wine quality using machine learning through Python an
+programming language
+A large dataset is considered and wine quality is modelled to analyse the quality of wine a
+through different parameters like fixed acidity, volatile acidity etc.
+All these parameters will be analysed through Machine Leaming algorithms like random forest
+classifier algorithm which will helps to rate the wine on scale | - 10 or bad - good. I
+Output obtained would further be checked for correctness and model will be optimized =
+accordingly. :
+It can support the wine expert evaluations and ultimately improve the production.
+@
+
+ 
+  
+  
+
+pH
+
+i 5 | Density
+
+Alcohol
+
+BD ATA Fixed Acidity
+B) ES B nd PT| @ iN Volatile Acidity
+
+Citric Acid
+Residual Sugar
+Chlorides
+
+Free Sulfur
+My dioxide
+
+ee Total Sulfur
+MAW. dioxide
+
+Sulphates
+] Quality
+
+To measure ripeness
+Density in gram per cm3
+Volume of alcohol in %
+
+Impart sourness and resist microbial infection, measured in no. of
+grams of tartaric acid per dm3
+
+no. of grams of acetic acid per dm3 of wine
+
+no. of grams of citric acid per dm3 of wine
+Remaining sugar after fermentation stops
+
+no. of grams of sodium chloride per dm3 of wine
+
+no. of grams of free sulphites per dm3 of wine
+
+no. of grams of total sulfite (free sulphite+ bound)
+
+no. of grams of potassium sulphate per dm3 of wine
+
+Target variable, 1-10 value
+
